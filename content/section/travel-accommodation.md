@@ -11,16 +11,16 @@ The take-home messages are:
 
 <br>
 
-Please pre-book a taxi for the evening if you are not travelling by car
+TODO
 
 <br>
 
-There is a lot of parking space available at Eggbeer Farm and cars can be left here overnight.
+TODO
 
 <br>
 
-Accommodation at Higher Eggbeer is available for hire, please contact Hugo and Sarah for more details
+TODO
 
 <br>
 
-You could take a train down from London to Exeter on the morning of the wedding, and back home afterwards, if you wanted!
+TODO
