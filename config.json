@@ -36,8 +36,8 @@
     }
   },
   "params": {
-    "background_image_1": "image/she-said-yes.jpg",
-    "background_image_2": "image/grad-family-pic.jpg",
-    "background_image_3": "image/the-kids.jpg"
+    "background_image_1": "static/image/she-said-yes.jpg",
+    "background_image_2": "static/image/grad-family-pic.jpg",
+    "background_image_3": "static/image/the-kids.jpg"
   }
 }
