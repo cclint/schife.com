@@ -12,37 +12,26 @@ Cheriton Bishop,
 Exeter, 
 EX6 6JQ
 
-## By train
+Windy Point Group Campground,
+White River National Forest,
+Dillon, CO 80435
 
-Trains from London Paddington to Exeter St David’s are approx ~2hrs 15mins.
+## By Uber
 
-You would then need to travel by taxi.
-
-## By taxi
-
-Taxi from Exeter Station to Higher Eggbeer is approx. a 15-20min cab ride.
-
-Please arrange cabs home for your group on Saturday night after the wedding.
 
 <br>
 
 **Taxi Companies:**
 
-Exeter Cars - 01392 555555 ([website](https://www.exetercars.com/))
+Uber - 01392 555555 ([website](https://www.exetercars.com/))
 
-Apple Taxis Exeter - 01392 666 666 ([website](https://www.appletaxisexeter.co.uk/))
+Lyft - 01392 666 666 ([website](https://www.appletaxisexeter.co.uk/))
 
-Andrew Mills Taxi - 01392 253588
 
 ## By car
-
+From Frisco, CO (From I-70 take Exit 203, Frisco/Breckenridge) travel 4 miles on Highway 9 through the town of Frisco, CO. Turn left on Swan Mountain Road and go about 3 miles to the Swan Mountain Recreation Area, the turn-off will be on your left. A dirt road leads to the campground.From Silverthorne/I-70 take Exit 205, Silverthorne/Dillon. Travel 4 miles east on Highway 6 through the town of Dillon, CO. Turn right on Swan Mountain road and drive 2 miles to Swan Mountain Recreation Area which will be on your right. A dirt road leads to the campground.
 **Note: Parking is available on site and cars can be left on site overnight**
 
-Higher Eggbeer is a short drive from Exeter City Centre - approx. 15-20min drive.
-
-From Exeter, take the A30 & exit towards Cheriton Bishop / Crockernwell / Drewsteignton / Tedburn / St Mary.
-
-When you arrive in the village of Cheriton Bishop at the ‘The Old Thatch Inn’ pub on the left, take the next left turn (at the yellow house). This will lead you down a short country lane directly to Higher Eggbeer. There are signs pointing to the entrance.
 
  
 
