@@ -267,21 +267,19 @@ html {
   text-decoration: none;
 }
 
-.rsvp-button {
+.nav-rsvp {
   color: var(--cream);
   background: var(--dark-green);
   padding: 0.5rem;
   border-radius: 10px;
-  width: fit-content
 }
 
 @media only screen and (min-width: 800px) {
   .nav-rsvp {
-  /* Alterations specific to desktop nav */
-  .rsvp-nav {
     margin-left: 4rem;
   }
 }
+
 
 .nav-desktop__link:hover {
   transform: scale(1.1);
@@ -519,5 +517,4 @@ figcaption {
   width: 100%;
   min-height: 600px;
   height: 100vh;
-}
-}
+  }
