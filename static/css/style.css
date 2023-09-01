@@ -512,3 +512,12 @@ figcaption {
   text-align: right;
   color: var(--light-green)
 }
+
+/* RSVP */
+
+.rsvp-iframe {
+  width: 100%;
+  min-height: 600px;
+  height: 100vh;
+}
+}
