@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Gifts"
-giftUrl: "https://www.collectionpot.com/pot/3015949/"
+giftUrl: "https://www.honeyfund.com/site/schife"
 ---
 
 The most important thing to us is that you are able to celebrate with us on our wedding day. However, if you wish to give a gift, we will gratefully accept a small contribution towards our honeymoon!
@@ -11,4 +11,4 @@ The most important thing to us is that you are able to celebrate with us on our 
 
 <br/>
 
-If you would like to do this, we've set up an online 'pot' which can be found here: [The Pot](https://www.honeyfund.com/site/schife)
+If you would like to do this, we've set up an online 'honeyfund' which can be found here: [The Pot](https://www.honeyfund.com/site/schife)

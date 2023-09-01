@@ -131,4 +131,18 @@
             {{ partial "svgs/scroll-up.svg" . }}
         </a>
     </div>
+
+    <div class="image image4"></div>
+
+    <section id="Count Down" class="section light">
+        <div class="section__svg">
+            {{ partial "svgs/alpine-forget-me_3628553.svg" . }}
+        </div>
+
+        {{ $t := .Site.GetPage "/section/count-down" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    </section>
 </main>
