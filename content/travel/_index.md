@@ -3,7 +3,7 @@ draft: false
 title: "Travel Advice"
 ---
 
-<iframe class="google-map" style="border:0;" src="https://www.google.com/maps/place/Windy+Point+Group+Campground/@39.6078137,-106.0454653,15z/data=!4m6!3m5!1s0x876a5be949be9363:0xb5c6b7ae8c358e23!8m2!3d39.6078137!4d-106.0454653!16s%2Fg%2F1td9f75j?entry=ttu" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12295.443977324252!2d-106.0454653!3d39.6078137!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876a5be949be9363%3A0xb5c6b7ae8c358e23!2sWindy%20Point%20Group%20Campground!5e0!3m2!1sen!2sus!4v1693533748967!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Address
 Windy Point Group Campground,
