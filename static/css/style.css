@@ -487,6 +487,12 @@ html {
   margin-left: 1rem;
 }
 
+.rsvp-iframe {
+  width: 100%;
+  min-height: 600px;
+  height: 100vh;
+  }
+
 /*Gift section*/
 
 blockquote {
@@ -510,11 +516,3 @@ figcaption {
   text-align: right;
   color: var(--light-green)
 }
-
-/* RSVP */
-
-.rsvp-iframe {
-  width: 100%;
-  min-height: 600px;
-  height: 100vh;
-  }
