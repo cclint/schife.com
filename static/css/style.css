@@ -267,20 +267,6 @@ html {
   text-decoration: none;
 }
 
-.nav-rsvp {
-  color: var(--cream);
-  background: var(--dark-green);
-  padding: 0.5rem;
-  border-radius: 10px;
-}
-
-@media only screen and (min-width: 800px) {
-  .nav-rsvp {
-    margin-left: 4rem;
-  }
-}
-
-
 .nav-desktop__link:hover {
   transform: scale(1.1);
   transition: all 0.25s ease-in-out;
@@ -486,12 +472,6 @@ html {
 .standalone ol {
   margin-left: 1rem;
 }
-
-.rsvp-iframe {
-  width: 100%;
-  min-height: 600px;
-  height: 100vh;
-  }
 
 /*Gift section*/
 
