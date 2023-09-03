@@ -5,7 +5,6 @@
     <p class="header__text header__text--heavy">Saturday, 8th June 2024</p>
 </header>
 -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,10 +18,9 @@
         {{ partial "svgs/last try logo.svg" . }}
         <p class="header__text header__text--light">We're getting married!</p>
         <p class="header__text header__text--heavy">Saturday, 8th June 2024</p>
+        <!-- Display the countdown timer in between these paragraph tags -->
+        <p id="demo"></p>
     </header>
-
-    <!-- Display the countdown timer in an element -->
-    <p id="demo"></p>
 
     <script>
         // Set the date we're counting down to (June 8, 2024)
@@ -45,7 +43,7 @@
             // Display the result in the element with id="demo"
             document.getElementById("demo").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
 
-            // If the count down is finished, write some text
+            // If the countdown is finished, write some text
             if (distance < 0) {
                 clearInterval(x);
                 document.getElementById("demo").innerHTML = "EXPIRED";
