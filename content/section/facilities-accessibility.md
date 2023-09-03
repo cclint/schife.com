@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Schife..?"
+title: "Why Schife?"
 ---
 
 ## So,  you're probably wondering.. "Why Schife?"
