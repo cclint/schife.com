@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Gifts"
+title: "Registry"
 giftUrl: "https://www.honeyfund.com/site/schife"
 ---
 
