@@ -1,3 +1,3 @@
-module github.com/SarahFrench/wedding-website
+module github.com/cclint/cclint.github.io
 
 go 1.17
