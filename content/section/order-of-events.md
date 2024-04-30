@@ -4,18 +4,14 @@ title: "Order of Events"
 ---
 
 This will house the events of the wedding! 
-## time - event name
+## 3:00pm Ceremony
 
-TODO
+## 3:45pm Photos, Drinks, & Appetizers 
 
-## 1pm - Ceremony
+## 5:00pm Dinner
 
-TODO
+## 6:00pm First Dance
 
-## 1:30pm - Reception
+## 6:10pm Party
 
-TODO
-
-## time - event
-
-TODO
+## 10:00pm Send-off
