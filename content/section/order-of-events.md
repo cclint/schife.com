@@ -3,7 +3,6 @@ draft: false
 title: "Order of Events"
 ---
 
-This will house the events of the wedding! 
 ## 3:00pm Ceremony
 
 ## 3:45pm Photos, Drinks, & Appetizers 
